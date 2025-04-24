@@ -1,0 +1,27 @@
+_repo: Ancient-and-modern-engineering-and-the-Isthmian-canal_75910
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burr, William Hubert
+    gutenberg_agent_id: '58212'
+    url: http://www.gutenberg.org/2009/agents/58212
+description: ''
+gutenberg_issued: '2025-04-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75910'
+language: en
+pgterms:marc904: https://archive.org/details/ancientmodernen00burr
+pgterms:marc905: 20240127095603burr
+pgterms:marc906: '1903'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bJ. Wiley & Sons, $c1903.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Ancient and modern engineering and the Isthmian canal
+url: http://www.gutenberg.org/ebooks/75910
